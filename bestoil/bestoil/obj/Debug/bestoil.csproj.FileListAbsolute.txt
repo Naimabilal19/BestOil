@@ -1,0 +1,13 @@
+C:\Users\naima\source\repos\bestoil\bestoil\bin\Debug\bestoil.exe.config
+C:\Users\naima\source\repos\bestoil\bestoil\bin\Debug\bestoil.exe
+C:\Users\naima\source\repos\bestoil\bestoil\bin\Debug\bestoil.pdb
+C:\Users\naima\source\repos\bestoil\bestoil\obj\Debug\bestoil.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\bestoil\bestoil\obj\Debug\bestoil.Form1.resources
+C:\Users\naima\source\repos\bestoil\bestoil\obj\Debug\bestoil.Properties.Resources.resources
+C:\Users\naima\source\repos\bestoil\bestoil\obj\Debug\bestoil.csproj.GenerateResource.cache
+C:\Users\naima\source\repos\bestoil\bestoil\obj\Debug\bestoil.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\bestoil\bestoil\obj\Debug\bestoil.exe
+C:\Users\naima\source\repos\bestoil\bestoil\obj\Debug\bestoil.pdb
+C:\Users\naima\source\repos\bestoil\bestoil\obj\Debug\bestoil.BestOil.resources
+C:\Users\naima\source\repos\bestoil\bestoil\obj\Debug\bestoil.Minikafe.resources
+C:\Users\naima\source\repos\bestoil\bestoil\obj\Debug\bestoil.Edit.resources
